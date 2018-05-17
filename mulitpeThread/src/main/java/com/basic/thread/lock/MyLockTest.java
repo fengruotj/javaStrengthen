@@ -12,7 +12,7 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 public class MyLockTest {
     private static Lock lock=new ReentrantLock();
-
+    
     private static List<Integer> integers=new ArrayList<>();
 
     public static void main(String[] args) {

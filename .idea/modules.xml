@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/concurrentPackage/concurrentPackage.iml" filepath="$PROJECT_DIR$/concurrentPackage/concurrentPackage.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaStrengthen.iml" filepath="$PROJECT_DIR$/javaStrengthen.iml" />
       <module fileurl="file://$PROJECT_DIR$/mulitpeThread/mulitpeThread.iml" filepath="$PROJECT_DIR$/mulitpeThread/mulitpeThread.iml" />
     </modules>
