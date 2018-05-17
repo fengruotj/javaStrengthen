@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="blockingQueue" />
         <module name="concurrentPackage" />
         <module name="mulitpeThread" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="blockingQueue" target="1.8" />
       <module name="concurrentPackage" target="1.8" />
       <module name="javaStrengthen" target="1.8" />
       <module name="mulitpeThread" target="1.8" />
